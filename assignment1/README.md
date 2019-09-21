@@ -1,4 +1,5 @@
-"""
+## Stream Mining ELTE course
+### Assignment One - Count-Min Sketch Algorithm Implementation
 
 Purpose: The script implements a Count-Min Sketch algorithm using a Jupyter's notebook.
 
@@ -8,4 +9,4 @@ Outputs: The output of the project is the frequency for each character in the da
 
 Dependencies: For the purpose of this implementation, the libraries used are numpy, pandas and mmh3 (Murmurhash3).
 
-"""
+
