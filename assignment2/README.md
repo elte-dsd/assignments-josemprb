@@ -1,4 +1,4 @@
-## Assignment 2 - Bloom Filter Implementation
+## Assignment 2 - Flajolet and Martin Algorithm Implementation
 
 Purpose: 
 
