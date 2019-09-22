@@ -6,5 +6,5 @@ Input: The only required input in the actual data stream M. However, the program
 
 Output: The output of this algorithm is the cardinality of a data stream M.
 
-Dependency: The libraries required for this implementation are numpy, random, math and bitarray
+Dependencies: The libraries required for this implementation are numpy, random, math and bitarray
 
