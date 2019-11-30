@@ -5,5 +5,7 @@ This repository is created to store the different assignments done by José Manu
 List of assignments
 * Assignment 1: Count-Min Sketch Algorithm Implementation.
 * Assignment 2: Flajolet and Martin Algorithm Implementation.
+* Assignment 3: Cumulative Sum Algorithm Implementation.
+* DWM: Dynamic Weighted Majority Algorithm Implementation.
 
 assignments-josemprb created by GitHub Classroom
